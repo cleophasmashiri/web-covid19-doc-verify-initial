@@ -15,6 +15,14 @@
 * Project setup, install webpack.
 
 ```
+mkdir web-covid19-doc-verify && cd web-covid19-doc-verify
+```
+
+```
+npm init
+```
+
+```
 npm i -D webpack webpack-cli webpack-dev-server
 ```
 
