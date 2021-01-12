@@ -1,5 +1,7 @@
 #Kata 1: Covid Certificate Document Verification web ui using vanilla javascript Initial Project
 
+## Features
+
 *   Allow a user to sign-up.
 *   Allow a user to sign-in.
 *   Allow health worker to capture a new test.
