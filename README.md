@@ -1,4 +1,4 @@
-# Kata 1: Covid Certificate Document Verification web ui using vanilla javascript Initial Project
+# Kata 1: Covid Certificate Document Verification web with vanilla javascript
 
 ## Features
 
